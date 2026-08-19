@@ -19,6 +19,13 @@ last = data[12:]
 print(last)
 print()
 
+score = [3,5,9,7,1,4,10,8,3,7,8,7,3,1,2,3]
+jumsu = {3,5,9,7,1,4,10,8,3,7,8,7,3,1,2,3} 
+print(score)
+print(jumsu)
+
+#08list.py문서
+
 
 
 
