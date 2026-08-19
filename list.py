@@ -5,13 +5,7 @@ for my in student:
     total = sum(my[1:])
     print(f'{name}님 총점={total}')
 
-print()
-# data = [ 5, 36, 22, 33, 77 ]
-# print(data[0])  #5
-# print(data[1])  #36
-# print(data[-1]) #77
-# print(data[-2]) #33
-# print()
+
 
 data = [23,34,51,9,7, 5,3,1,88,99, 100,29,45,67,81,2]
 first = data[0:5]
